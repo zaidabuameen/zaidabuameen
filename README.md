@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there , I'm Zaid Abu Ameen 👋
 
 ![Purple Abstract Graphic Design LinkedIn Article Cover Image (1)](https://github.com/user-attachments/assets/fb937686-08e9-4c22-ae2c-086cf098cd57)
 
@@ -6,7 +6,7 @@
 
 Computer Science Student | Full-Stack Developer (Laravel) | Tech3arabi Ambassador® | Entrepreneur
 
-## 👋 Hi there, I'm Zaid Abu Ameen
+## 
 
 🎓 I'm a passionate **Computer Science student** at **Philadelphia University**, deeply engaged in the intersection of **technology, innovation, and leadership**.
 

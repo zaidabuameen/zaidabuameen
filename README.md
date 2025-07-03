@@ -1,10 +1,18 @@
 ## Hi there 👋
+Computer Science Student | Full-Stack Developer (Laravel) | Tech3arabi Ambassador® | Entrepreneur
 
-<!--
-**zaidabuameen/zaidabuameen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Purple Abstract Graphic Design LinkedIn Article Cover Image (1).png
 
-Here are some ideas to get you started:
+🚀 About Me
+💻 Passionate Computer Science student at Philadelphia University, specializing in AI/Data Science and Software Development.
 
+🌍 Based in Amman, Jordan 🇯🇴.
+
+🚀 Entrepreneurial mindset: Building tech solutions, leading teams, and exploring innovations.
+
+🔥 Tech3arabi Ambassador: Organizing events, fostering tech community growth, and bridging gaps in the MENA tech scene.
+
+⚡ Fun Fact: Basketball enthusiast and a lifelong learner!
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

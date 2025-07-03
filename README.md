@@ -1,7 +1,7 @@
+![Profile Banner](./Purple-Abstract-Graphic-Design-LinkedIn-Article-Cover-Image.png)  
+
 ## Hi there 👋
 Computer Science Student | Full-Stack Developer (Laravel) | Tech3arabi Ambassador® | Entrepreneur
-
-![Profile Banner](./Purple-Abstract-Graphic-Design-LinkedIn-Article-Cover-Image.png)  
 
 🚀 About Me
 💻 Passionate Computer Science student at Philadelphia University, specializing in AI/Data Science and Software Development.

@@ -1,8 +1,7 @@
-![Profile Banner](./Purple-Abstract-Graphic-Design-LinkedIn-Article-Cover-Image.png)  
+![Purple Abstract Graphic Design LinkedIn Article Cover Image (1)](https://github.com/user-attachments/assets/fb937686-08e9-4c22-ae2c-086cf098cd57)
 
 ## Hi there 👋
 Computer Science Student | Full-Stack Developer (Laravel) | Tech3arabi Ambassador® | Entrepreneur
-![Purple Abstract Graphic Design LinkedIn Article Cover Image (1)](https://github.com/user-attachments/assets/fb937686-08e9-4c22-ae2c-086cf098cd57)
 
 🚀 About Me
 💻 Passionate Computer Science student at Philadelphia University, specializing in AI/Data Science and Software Development.

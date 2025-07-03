@@ -2,25 +2,42 @@
 
 ![Purple Abstract Graphic Design LinkedIn Article Cover Image (1)](https://github.com/user-attachments/assets/fb937686-08e9-4c22-ae2c-086cf098cd57)
 
-## Hi there 👋
+## 🚀 About Me
+
 Computer Science Student | Full-Stack Developer (Laravel) | Tech3arabi Ambassador® | Entrepreneur
 
-🚀 About Me
-💻 Passionate Computer Science student at Philadelphia University, specializing in AI/Data Science and Software Development.
+## 👋 Hi there, I'm Zaid Abu Ameen
 
-🌍 Based in Amman, Jordan 🇯🇴.
+🎓 I'm a passionate **Computer Science student** at **Philadelphia University**, deeply engaged in the intersection of **technology, innovation, and leadership**.
 
-🚀 Entrepreneurial mindset: Building tech solutions, leading teams, and exploring innovations.
+💼 I'm currently:
+- 🎯 Pursuing my degree in Computer Science.
+- 🧠 Learning and building as a **Full Stack Developer** using **Laravel**.
+- 🏅 Active as a **Tech3arabi Ambassador®** – leading logistics, covering major tech events, and connecting the regional tech community.
+- 💻 Diving into **competitive programming** and software problem-solving.
 
-🔥 Tech3arabi Ambassador: Organizing events, fostering tech community growth, and bridging gaps in the MENA tech scene.
+🚀 I thrive on:
+- 💡 Exploring entrepreneurial ideas and turning them into solutions.
+- 🎨 Designing creatively with an eye for digital impact.
+- 🤝 Leading teams and managing projects to successful outcomes.
 
-⚡ Fun Fact: Basketball enthusiast and a lifelong learner!
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Tech & Tools I use:
+- PHP / Laravel, JavaScript , java 
+- HTML/CSS, Bootstrap
+- MySQL, Git & GitHub, REST APIs
+- Canva
+- Digital marketing tools and content strategies
+
+📫 Let’s connect:
+- 🌐 [LinkedIn](https://www.linkedin.com/in/zaid-abuameen-292070259/)
+- 📩 Email: [zaidaboameen8@gmail.com]
+- 📞 Phone: [+962799938134]
+- 🗣️ Fun fact: I’m always up for a challenge and love tackling real-world problems with code!
+
+---
+
+💬 **Ask me about**:
+- Laravel projects
+- Startup ideas
+- Tech event experiences
+- Leadership and team dynamics
